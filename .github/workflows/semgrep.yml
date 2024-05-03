@@ -1,4 +1,5 @@
 name: Semgrep
+
 on:
 # Scan mainline branches and report all findings:
 push:
